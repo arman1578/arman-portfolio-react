@@ -33,7 +33,7 @@ export const PROJECTS = [
 		technologies: ["HTML", "CSS", "JavaScript"],
 	},
 	{
-		title: "Bistro Boss Restaurant Management System",
+		title: "Food Delivery Website",
 		image: project2,
 		description:
 			"Developed a web-based restaurant management system with React.js (frontend) and Node.js (backend). Manages menus, orders, carts, and inventory with Stripe.js for secure payments. Intuitive UI, real-time updates, secure payment processing, Admin Dashboard.",
@@ -47,7 +47,7 @@ export const PROJECTS = [
 		technologies: ["HTML", "CSS", "Bootstrap"],
 	},
 	{
-		title: "Dentist Management System ",
+		title: "Fabrica - e-Commerce Website",
 		image: project4,
 		description:
 			"Developed a dentist management system with React.js (frontend) and Node.js (backend). Appointment booking for dental services, dynamic calendar for date selection, secure admin dashboard for managing doctors and services.",
